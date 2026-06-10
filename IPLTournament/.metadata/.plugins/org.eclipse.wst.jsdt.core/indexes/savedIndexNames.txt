@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\guggi\OneDrive\Desktop\Java\IPLTournament\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2444301375.index
+1282028728.index
+2393065378.index
+1015094433.index
+727000389.index
+877588707.index
